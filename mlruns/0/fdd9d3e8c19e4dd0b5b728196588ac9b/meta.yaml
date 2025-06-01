@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdd9d3e8c19e4dd0b5b728196588ac9b/artifacts
+end_time: 1748440779607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdd9d3e8c19e4dd0b5b728196588ac9b
+run_name: enthused-koi-381
+run_uuid: fdd9d3e8c19e4dd0b5b728196588ac9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748440778396
+status: 3
+tags: []
+user_id: Rahul

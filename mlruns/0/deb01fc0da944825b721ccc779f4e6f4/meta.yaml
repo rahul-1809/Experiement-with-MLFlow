@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/deb01fc0da944825b721ccc779f4e6f4/artifacts
+end_time: 1748761385706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deb01fc0da944825b721ccc779f4e6f4
+run_name: marvelous-hawk-488
+run_uuid: deb01fc0da944825b721ccc779f4e6f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748761384426
+status: 3
+tags: []
+user_id: Rahul

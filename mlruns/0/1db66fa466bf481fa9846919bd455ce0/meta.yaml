@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1db66fa466bf481fa9846919bd455ce0/artifacts
+end_time: 1748762535527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1db66fa466bf481fa9846919bd455ce0
+run_name: amazing-lamb-837
+run_uuid: 1db66fa466bf481fa9846919bd455ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748762534219
+status: 3
+tags: []
+user_id: Rahul

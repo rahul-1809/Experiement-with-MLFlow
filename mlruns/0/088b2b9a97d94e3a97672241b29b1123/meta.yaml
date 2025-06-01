@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/088b2b9a97d94e3a97672241b29b1123/artifacts
+end_time: 1748087374371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 088b2b9a97d94e3a97672241b29b1123
+run_name: wistful-roo-447
+run_uuid: 088b2b9a97d94e3a97672241b29b1123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748087373397
+status: 3
+tags: []
+user_id: Rahul

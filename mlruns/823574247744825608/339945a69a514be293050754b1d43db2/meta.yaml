@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/823574247744825608/339945a69a514be293050754b1d43db2/artifacts
+end_time: 1748778998588
+entry_point_name: ''
+experiment_id: '823574247744825608'
+lifecycle_stage: active
+run_id: 339945a69a514be293050754b1d43db2
+run_name: orderly-horse-594
+run_uuid: 339945a69a514be293050754b1d43db2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748778981418
+status: 3
+tags: []
+user_id: Rahul
