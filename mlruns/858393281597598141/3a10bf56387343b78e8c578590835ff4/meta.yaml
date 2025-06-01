@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/3a10bf56387343b78e8c578590835ff4/artifacts
+end_time: 1748780197408
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: 3a10bf56387343b78e8c578590835ff4
+run_name: crawling-eel-843
+run_uuid: 3a10bf56387343b78e8c578590835ff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780197290
+status: 3
+tags: []
+user_id: Rahul

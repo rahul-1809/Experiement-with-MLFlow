@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/fd9a7a6dc61d41a4a54e0b01c040c409/artifacts
+end_time: 1748780196773
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: fd9a7a6dc61d41a4a54e0b01c040c409
+run_name: chill-cub-314
+run_uuid: fd9a7a6dc61d41a4a54e0b01c040c409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780196614
+status: 3
+tags: []
+user_id: Rahul

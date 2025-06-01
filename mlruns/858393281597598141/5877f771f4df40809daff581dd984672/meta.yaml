@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/5877f771f4df40809daff581dd984672/artifacts
+end_time: 1748780197104
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: 5877f771f4df40809daff581dd984672
+run_name: fun-flea-767
+run_uuid: 5877f771f4df40809daff581dd984672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780196980
+status: 3
+tags: []
+user_id: Rahul

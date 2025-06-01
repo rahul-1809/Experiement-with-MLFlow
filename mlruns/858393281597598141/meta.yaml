@@ -1,0 +1,6 @@
+artifact_location: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141
+creation_time: 1748779846281
+experiment_id: '858393281597598141'
+last_update_time: 1748779846281
+lifecycle_stage: active
+name: breast-cancer-rf-hp

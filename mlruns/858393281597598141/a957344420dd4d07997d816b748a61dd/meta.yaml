@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/a957344420dd4d07997d816b748a61dd/artifacts
+end_time: 1748780212049
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: a957344420dd4d07997d816b748a61dd
+run_name: delicate-quail-816
+run_uuid: a957344420dd4d07997d816b748a61dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780178216
+status: 3
+tags: []
+user_id: Rahul

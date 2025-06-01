@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/b2f7b652fbeb48a589ad1be7b07e1a09/artifacts
+end_time: 1748779909126
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: b2f7b652fbeb48a589ad1be7b07e1a09
+run_name: victorious-fawn-517
+run_uuid: b2f7b652fbeb48a589ad1be7b07e1a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748779879496
+status: 3
+tags: []
+user_id: Rahul

@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/5f44c9d0d1c343e6a7052c5e4add6061/artifacts
+deleted_time: 1748779935823
+end_time: 1748779847085
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: deleted
+run_id: 5f44c9d0d1c343e6a7052c5e4add6061
+run_name: honorable-trout-301
+run_uuid: 5f44c9d0d1c343e6a7052c5e4add6061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748779846952
+status: 4
+tags: []
+user_id: Rahul

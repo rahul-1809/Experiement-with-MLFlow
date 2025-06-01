@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748780866265
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1748781154191
+name: Model1
+run_id: a957344420dd4d07997d816b748a61dd
+run_link: ''
+source: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/a957344420dd4d07997d816b748a61dd/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/a957344420dd4d07997d816b748a61dd/artifacts/random_forest
+user_id: null
+version: 1

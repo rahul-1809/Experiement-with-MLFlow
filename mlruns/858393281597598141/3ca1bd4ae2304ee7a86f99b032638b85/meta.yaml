@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/3ca1bd4ae2304ee7a86f99b032638b85/artifacts
+end_time: 1748780197260
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: 3ca1bd4ae2304ee7a86f99b032638b85
+run_name: nosy-dove-662
+run_uuid: 3ca1bd4ae2304ee7a86f99b032638b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780197129
+status: 3
+tags: []
+user_id: Rahul

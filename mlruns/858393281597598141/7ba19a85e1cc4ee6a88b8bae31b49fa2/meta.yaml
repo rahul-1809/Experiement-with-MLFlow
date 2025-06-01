@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/Experiement-with-MLFlow/mlruns/858393281597598141/7ba19a85e1cc4ee6a88b8bae31b49fa2/artifacts
+end_time: 1748780196453
+entry_point_name: ''
+experiment_id: '858393281597598141'
+lifecycle_stage: active
+run_id: 7ba19a85e1cc4ee6a88b8bae31b49fa2
+run_name: luminous-doe-247
+run_uuid: 7ba19a85e1cc4ee6a88b8bae31b49fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748780196333
+status: 3
+tags: []
+user_id: Rahul
